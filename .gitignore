@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# Production build files
+dist/
+
+# Tailwind CSS cache directory
+.cache/
+
+# Environment variables
+.env
+
+# Cache and logs
+log/
+
+# Editor directories
+.idea/
+.vscode/
+.parcel-cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

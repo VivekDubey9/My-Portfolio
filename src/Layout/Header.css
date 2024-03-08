@@ -1,0 +1,10 @@
+@keyframes border-grow {
+  0% {
+    border-bottom-width: 0;
+  }
+  100% {
+    border-bottom-width: 2px; /* or any desired width */
+  }
+}
+
+
